@@ -1,6 +1,6 @@
 # SRCSWArchetypes
  
-This repository generates OpenSees Scripts for 69 special reinforced concrete shear wall archetypes ranging from 4- to 40-story high. The archetypes were designed using either ASCE 7-10 or ASCE 7-16 for Seattle and are described in further detail in the following journal publications:
+This repository generates OpenSees Scripts for 69 special reinforced concrete shear wall archetypes ranging from 4- to 40-stories. The archetypes were designed using either ASCE 7-10 or ASCE 7-16 for Seattle and are described in further detail in the following journal publications:
 
 Marafi, N. A., Makdisi, A. J., Berman, J. W., and Eberhard, M. O. (2020) Impacts of Design Strategies to Account for Effects of Sedimentary Basins on Reinforced Concrete Walls. Earthquake Spectra, in-press (manuscripts are available upon request)
 
